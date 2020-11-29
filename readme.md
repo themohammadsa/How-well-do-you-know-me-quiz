@@ -2,7 +2,7 @@
 
 # Getting Started:
 
-This is a CLI application -- quiz on the topic of "How well do you know me?"
+A CLI application -- quiz on the topic of "How well do you know me?"
 
 ********
 # Description:
@@ -19,6 +19,13 @@ This is a CLI application -- quiz on the topic of "How well do you know me?"
 https://repl.it/@themohammadsa/Tanay-Live-Quiz?embed=1&output=1#index.js
 
 ********
+
+# Screenshot 
+
+![Screenshot](/images/screenshot.jpeg)
+
+********
+
 
 ## Build with:
 
