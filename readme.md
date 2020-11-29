@@ -27,7 +27,7 @@ https://repl.it/@themohammadsa/Tanay-Live-Quiz?embed=1&output=1#index.js
 ********
 
 
-## Build with:
+## Built with:
 
 [Node.js](https://nodejs.org/en/)
 
