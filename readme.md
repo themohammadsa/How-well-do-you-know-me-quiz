@@ -22,7 +22,7 @@ https://repl.it/@themohammadsa/Tanay-Live-Quiz?embed=1&output=1#index.js
 
 # Screenshot 
 
-![Screenshot](/images/screenshot.jpeg)
+![Screenshot](/images/screenshot.png)
 
 ********
 
